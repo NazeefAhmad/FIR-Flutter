@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "79627034914",
+    "firebase_url": "https://fir-using-blockchain-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fir-using-blockchain",
+    "storage_bucket": "fir-using-blockchain.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79627034914:android:cffb51352afe514948057b",
+        "android_client_info": {
+          "package_name": "com.example.police"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeu7DGChrwPR_IU-wiy6FnvtxUIm0lsQc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
