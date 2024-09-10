@@ -20,7 +20,7 @@
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/yourusername/FIR-Flutter-App.git
+git clone https://github.com/NazeefAhmad/FIR-Flutter-App.git
 cd FIR-Flutter-App
 ```
 
@@ -95,7 +95,7 @@ Licensed under the MIT License. See the [LICENSE](LICENSE) file for more informa
 
 ## 📧 Get in Touch
 
-Questions, feedback, or need help? Reach out to us at [your-email@example.com](mailto:your-email@example.com) or join our [Discord community](https://discord.gg/your-discord-invite).
+Questions, feedback, or need help? Reach out to us at [your-email@example.com](mailto:hackblackpearl@gmail.com) 
 
 ---
 
