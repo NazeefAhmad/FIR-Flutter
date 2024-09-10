@@ -95,7 +95,7 @@ Licensed under the MIT License. See the [LICENSE](LICENSE) file for more informa
 
 ## 📧 Get in Touch
 
-Questions, feedback, or need help? Reach out to us at [your-email@example.com](mailto:hackblackpearl@gmail.com) 
+Questions, feedback, or need help? Reach out to us at [nazeefahmad5555@gmail.com](mailto:hackblackpearl@gmail.com) 
 
 ---
 
